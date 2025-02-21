@@ -1,0 +1,7 @@
+Você irá em Ajustes no chrome e irá pegar a versão que está atualmente, e irá colocar ali no link dessa maneira:
+
+https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/win64/chromedriver-win64.zip
+
+Depois só colocar o exe nessa caminho:
+
+C:\Python312\chromedriver-win64
